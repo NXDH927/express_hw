@@ -40,7 +40,7 @@ app.get("/api/tables", function(req, res) {
 
         differenceList.push(differenceNum);
 
-      // }
+
 
     };
 
