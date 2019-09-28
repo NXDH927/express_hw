@@ -1,0 +1,19 @@
+body{
+
+    background-color: darkred;
+    color: silver;
+
+}
+
+.jumbotron{
+
+    background-color: silver;
+    color: darkred;
+
+}
+
+.btn-primary{
+
+    background-color: darkred;
+
+}
